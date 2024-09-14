@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pang
+- 👀 I’m interested in AOSP development
+- 🌱 I’m currently learning C++
+- 📫 Reach me on email
+- 😄 Pronouns: he/him
